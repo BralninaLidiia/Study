@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="class1.css">
+    <title>Document</title>
+</head>
+<body>
+  <header>
+    <div class="reloadbutton">
+      <a href=""><img src="Superdao Logo Color.svg" alt=""></a>
+    </div>
+</header>
+        <h1>Форма</h1>
+        <form action="//httpbin.org/post" method="post">
+        <div class="form">
+            <label for="name">Имя</label>
+            <input type="text" id="name" name="name" placeholder="Имя" required>
+            <span class="required-sign">*</span>
+        </div>
+        
+        <div class="form">
+            <label for="lastname">Фамилия </label>
+            <input type="text" id="lastname" name="lastname" placeholder="Фамилия" required>
+            <span class="required-sign">*</span>
+          </div>
+          
+          <div class="form">
+            <label for="patronymic">Отчество<span class="optional"></span></label>
+            <input type="text" id="patronymic" name="patronymic" placeholder="Отчество">
+          </div>
+          
+          <div class="form">
+            <label for="phone">Телефон</label>
+            <input type="tel" id="phone" name="phone" placeholder="Телефон" required>
+            <span class="required-sign">*</span>
+          </div>
+          
+          <div class="form">
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" placeholder="E-mail" required>
+            <span class="required-sign">*</span>
+          </div>
+          
+        
+          <div class="buttonform" style="padding-top: 20px;">
+            <button type="submit">Оформить заявку</button>
+            </div>
+            
+            <div class="buttonform">
+            <button type="reset">Сбросить</button>
+            </div>
+        </form>
+</body>
+</html>

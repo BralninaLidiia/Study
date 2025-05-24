@@ -1,0 +1,653 @@
+@font-face {
+	font-family: 'PT Mono Bold'; 
+	src: url(pt-mono-bold.ttf); 
+}
+@font-face {
+	font-family: 'PT Mono Regular'; 
+	src: url(pt-mono-regular.ttf); 
+}
+a:link, a:visited {
+  text-decoration: none; /* Убираем стандартное подчеркивание ссылки */
+}
+::selection {
+  background-color:#3A3A3A; /* Цвет фона при выделении */
+  color: #ffffff; /* Цвет текста при выделении */
+}
+header {
+  display: flex;
+  justify-content: space-between; /* Распределение пространства между элементами */
+  align-items: center;
+  width: 288px;
+  height: 56px;
+}
+nav {
+  text-align: right;
+  margin-right: 16px;
+}
+select {
+  width: 140px; 
+  height: 33.2px; 
+  background-color: #10151A;
+  border: 0px;
+  color: #ffffff;
+  font-family: 'PT Mono Bold';
+  font-size: 1rem;
+  line-height: 2.25rem;
+}
+.reloadbutton {
+  margin-top: 16px;
+  margin-left: 16px;
+}
+.group1 {
+  display: flex;
+  position: relative;
+  width: 288px;
+  background-color: rgba(20, 16, 36, 1);
+  background-image: url("BG Stars.png");
+  flex-direction: column;
+}
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  background-color: #10151A;
+}
+body main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.text1 {
+  position: relative;
+  text-align: center;
+  margin-top: 0px;
+  z-index: 2;
+}
+.text1 h1 {
+  font-family: 'PT Mono Bold';
+  margin-top: 0px;
+  font-size: 2rem;
+  line-height: 2.5rem;
+  text-align: center;
+  color: #ffffff;
+  width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+.text1 p {
+  font-family: 'PT Mono Regular';
+  text-align: center;
+  margin-top: 16px;
+  font-size: 0.9375rem;
+  line-height: 1.5rem;
+  text-align: center;
+  color: #ffffff;
+  width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.picture1 {
+  position: relative;
+  margin-left: 139px;
+  margin-top: -128px;
+  margin-bottom:120px;
+  z-index: 1;
+}
+.button1{
+  text-align: center;
+  width: 156px; /* Фиксированная ширина прямоугольника */
+  height: 32px; /* Фиксированная высота прямоугольника */
+  background: linear-gradient(#FFD600, #FFB800);
+  border-radius: 12px;
+  color: #000000;
+  padding: 8px;
+  font-family: 'PT Mono Bold';
+  font-size: 1rem;
+  line-height: 2rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 80px;
+  transition: all 0.3s ease;
+}
+.button1 a{
+  color: #000000;
+  font-family: 'PT Mono Bold';
+  text-align: center;
+  margin-top: -36px;
+  font-size: 16px;
+}
+.button1:hover {
+  color:#ffffffe4; /* Новый цвет текста при наведении */
+  background-color: #ff9100; /* Новый цвет фона при наведении */
+  transform: scale(1.1) rotate(1deg); /* Масштабирование и поворот при наведении */
+  box-shadow: 0 0 10px #ffffff;
+}
+
+/* Стили для состояния active */
+.button1:active {
+  color: #ffffffe4; /* Новый цвет текста при активации (нажатии) */
+  background-color: #ffae00; /* Новый цвет фона при активации */
+  transform: scale(0.9) rotate(-1deg);
+}
+
+/* Стили для состояния focus */
+.button1:focus {
+  outline: none; /* Убираем стандартное обводка при фокусе (необязательно, можно оставить) */
+  box-shadow: 0 0 10px #ffffff; /* Тень при фокусе для лучшей видимости */
+  /* Добавьте дополнительные стили по вашему желанию */
+}
+.Superpowers{
+  position: relative;
+}
+.Superpowers h2{
+  font-family: 'PT Mono Bold';
+  font-size: 1.75rem;
+  line-height: 2rem;
+  text-align: center;
+  color: #ffffff;
+  max-width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Superpowers h3{
+  font-family: 'PT Mono Bold';
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  text-align: left;
+  color: #FFD600;
+  width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 8px;
+}
+.Superpowers p{
+  margin-top: 0px;
+  font-family: 'PT Mono Regular';
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  text-align: left;
+  color: #ffffff;
+  width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.picture2{
+  position: absolute;
+  left: 50%; /* Добавлено */
+  transform: translateX(-50%);
+  margin-top: 48px;
+  z-index: -1;
+}
+.border1 {
+  align-items: center;
+  margin-top: 80px;
+  width: 288px; 
+  height: 716.8;
+  border: 3px solid #FFD600;
+  border-radius: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 56px;
+}
+.border1 h3{
+  font-family: 'PT Mono Bold';
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  text-align: center;
+  color: #FFD600;
+  max-width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 14px;
+}
+.border1 p{
+  font-family: 'PT Mono Regular';
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  text-align: center;
+  color: #ffffff;
+  max-width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+}
+.centered-container2, .centered-container3, .centered-container7{
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.apps{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 260px;
+  
+}
+.app1, .app2{
+  background-color: #3A3A3A;
+  color: #ffffff;
+  border-radius: 8px;
+  padding-right: 8px;
+  font-family: 'PT Mono Bold';
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.app1{
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.app2{
+  margin-bottom: 8px;
+}
+.rect9, .rect10 {
+  height: 76px;
+  width: 232px;
+  background-color: #3A3A3A;
+  padding: 12px;
+  border-radius: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rect9 h3, .rect10 h3 {
+  font-family: 'PT Mono Bold';
+  text-align: center;
+  color: #FFD600;
+  font-size: 18px;
+  line-height: 24px;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.rect9 p, .rect10 p {
+  font-family: 'PT Mono Regular';
+  text-align: center;
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  max-width: 225px;
+}
+.rect9 + .rect10 {
+  margin-top: 16px;
+}
+.blockchains{
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-height: 260px;
+  max-width: 252px;
+}
+.fixrect1, .fixrect2{
+  width: 122px; /* Фиксированная ширина прямоугольника */
+  height: 44px; /* Фиксированная высота прямоугольника */
+  background-color: #3A3A3A;
+  color: #ffffff;
+  font-size: 0.75rem;
+  border-radius: 12px;
+  font-family: 'PT Mono Bold';
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.fixrect1 + .fixrect2 {
+  margin-left: 8px;
+  margin-bottom: 8px;
+}
+.fixrect1 img, .fixrect2 img{
+  padding-right: 8px;
+  padding-left: 8px;
+}
+.rectforroadmapclub{
+  width: 256px; /* Фиксированная ширина прямоугольника */
+  height: 378px; /* Фиксированная высота прямоугольника */
+  background: linear-gradient(#A96BF7, #3103B5);
+  border-radius: 16px;
+  color: #ffffff;
+  padding: 16px;
+  margin-bottom: 80px;
+}
+.rectforroadmapclub h2{
+  font-family: 'PT Mono Bold';
+  font-size: 1.375rem;
+  line-height: 1.75rem;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.rectforroadmapclub p{
+  font-family: 'PT Mono Regular';
+  font-size: 0.875rem;
+  line-height: 1.375rem;
+  margin-left: -0.3px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+.rectforroadmapclub ul {
+  list-style: none; /* Убираем стандартные маркеры списка */
+  padding: 0;
+}
+.rectforroadmapclub li {
+  margin-bottom: 10px; /* Добавляем отступ между элементами списка */
+  position: relative; /* Позиционируем, чтобы использовать псевдоэлемент ::before */
+  padding-left: 30px; /* Отступ слева для текста */
+  font-family: 'PT Mono Bold';
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  margin-bottom: 6px;
+}
+.rectforroadmapclub li::before {
+  content: ""; /* Пустое содержимое для псевдоэлемента */
+  background-image: url('Icon_wing.png'); /* Укажите путь к вашему изображению */
+  background-size: 16px 16px; /* Размер изображения */
+  background-repeat: no-repeat; /* Отключаем повторение изображения */
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+.rectr1{
+  width: 240px; /* Фиксированная ширина прямоугольника */
+  height: 32px; /* Фиксированная высота прямоугольника */
+  background: linear-gradient(#FFD600, #FFB800);
+  border-radius: 12px;
+  color: #000000;
+  margin-top: 18px;
+  padding: 8px;
+  font-family: 'PT Mono Bold';
+  font-size: 1rem;
+  line-height: 2rem;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.rectr1 a{
+  color: #000000;
+}
+.rectr1:hover {
+  color:#ffffffe4; /* Новый цвет текста при наведении */
+  background-color: #ff9100; /* Новый цвет фона при наведении */
+  transform: scale(1.1) rotate(1deg); /* Масштабирование и поворот при наведении */
+  box-shadow: 0 0 10px #ffffff;
+}
+
+/* Стили для состояния active */
+.rectr1:active {
+  color: #ffffffe4; /* Новый цвет текста при активации (нажатии) */
+  background-color: #ffae00; /* Новый цвет фона при активации */
+  transform: scale(0.9) rotate(-1deg);
+}
+
+/* Стили для состояния focus */
+.rectr1:focus {
+  outline: none; /* Убираем стандартное обводка при фокусе (необязательно, можно оставить) */
+  box-shadow: 0 0 10px #ffffff; /* Тень при фокусе для лучшей видимости */
+  /* Добавьте дополнительные стили по вашему желанию */
+}
+.rectr2{
+  width: 240px;
+  height: 32px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  color: rgba(255, 255, 255, 1); /* Цвет текста (непрозрачный белый) */
+  margin-top: 12px;
+  padding: 8px;
+  font-family: 'PT Mono Bold';
+  font-size: 1rem;
+  line-height: 2rem;
+  text-align: center;
+  text-decoration: none; /* Убираем подчеркивание ссылки */
+  transition: all 0.3s ease;
+}
+.rectr2 a{
+  color: #ffffff;
+}
+.rectr2:hover {
+  color:#ffffff; /* Новый цвет текста при наведении */
+  background-color:rgba(255, 255, 255, 0.25); /* Новый цвет фона при наведении */
+  transform: scale(1.1) rotate(1deg); /* Масштабирование и поворот при наведении */
+  box-shadow: 0 0 10px #ffffff;
+}
+
+/* Стили для состояния active */
+.rectr2:active {
+  color: #ffffff; /* Новый цвет текста при активации (нажатии) */
+  background-color: rgba(255, 255, 255, 0.35); /* Новый цвет фона при активации */
+  transform: scale(0.9) rotate(-1deg);
+}
+
+/* Стили для состояния focus */
+.rectr2:focus {
+  outline: none; /* Убираем стандартное обводка при фокусе (необязательно, можно оставить) */
+  box-shadow: 0 0 10px #ffffff; /* Тень при фокусе для лучшей видимости */
+  /* Добавьте дополнительные стили по вашему желанию */
+}
+.learnmore{
+  position: relative;
+  margin-bottom: 80px;
+}
+.picture3{
+  position: absolute;
+  left: 50%; /* Добавлено */
+  transform: translateX(-50%);
+  margin-top: -38px;
+  z-index: -1;
+}
+.learnmore h2, .backed h2{
+  font-family: 'PT Mono Bold';
+  font-size: 1.75rem;
+  line-height: 2rem;
+  text-align: center;
+  color: #ffffff;
+}
+.learnmore p{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color:#ffffff;
+  margin-top: 0px;
+  font-family: 'PT Mono Bold';
+}
+.learnmore a{
+  color:#FFD600;
+  font-family: 'PT Mono Bold';
+  font-size: 0.9375rem;
+  line-height: 2rem;
+  margin-left: 20px;
+
+}
+.container1, .container2, .container3{
+  width: 288px;
+  height: 244px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  margin-bottom: 32px;
+}
+.cont1, .cont2, .cont3 {
+  border-radius: 16px;
+  object-fit: cover;
+}
+.overlay1, .overlay2, .overlay3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color:#1B2A40; /* Цвет закрытия, можно настроить по вашему вкусу */
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 16px;
+}
+.overlay1 p, .overlay2 p, .overlay3 p {
+  margin-left: 20px;
+  padding: 5px 0;
+}
+.learnmore img{
+  margin-bottom: 0px;
+}
+.centered-container6{
+  flex-wrap: wrap;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 28px;
+}
+.names{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 320px;
+}
+.name1, .name2{
+  color: #ffffff;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  border-radius: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-family: 'PT Mono Bold';
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border: 3px solid rgba(255, 255, 255, 0.15); /* Добавляем белую границу шириной 2 пикселя */
+}
+.company{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 320px;
+}
+.company1{
+  margin-left: 2px;
+}
+.company2{
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+.picture4{
+  position: absolute;
+  left: 50%; /* Добавлено */
+  transform: translateX(-50%);
+  margin-top: -38px;
+  z-index: -1;
+}
+footer {
+  height: 120px;
+  margin-top: 80px;
+  background-color: #FFD601;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+footer a{
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  font-family: 'PT Mono Bold';
+  color:#000000;
+}
+.topgroup {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Добавлено свойство align-items */
+  height: 100%; /* Добавлено свойство height: 100% для растяжения topgroup на всю высоту */
+  gap: 60px;
+}
+.leftgroup,
+.rightgroup {
+  display: flex;
+  align-items: center; /* Выравнивание по центру по вертикали */
+}
+.leftgroup img,
+.rightgroup img {
+  max-height: 100%; /* Максимальная высота изображения */
+}
+.rightgroup a{
+  margin-right: 16px;
+}
+.bottomgroup{
+  text-align: center;
+  margin-bottom: 24px; /* вертикальное выравнивание по центру */
+}
+.bottomgroup a{
+  margin: 16px; /* вертикальное выравнивание по центру */
+}
+
+@media (min-width: 367px) and (max-width: 768px) {
+  header{
+    width: 368px;
+  }
+  .border1{
+    width: 368px;
+  }
+  .Superpowers p{
+    width: 368px;
+  }
+  .Superpowers h3{
+    width: 368px;
+  }
+  .rectforroadmapclub{
+    width: 336px;
+    height: 336px;
+  }
+  .rectr1, .rectr2{
+    width: 320px;
+  }
+  .container1, .container2, .container3{
+    width: 368px;
+  }
+  .cont1, .cont2, .cont3{
+    width: 368px;
+  }
+  .topgroup{
+    gap:140px;
+  }
+  .picture1{
+    margin-left: 139px;
+  }
+}
+@media (min-width: 769px) and (max-width: 960px) {
+  .border1{
+    width: 736px; 
+  }
+  .group1{
+    width: 736px;
+  }
+  .text1 h1{
+    width: 656px;
+    font-size: 3.25rem;
+    line-height: 3.75rem;
+  }
+  .text1 p{
+    width: 540px;
+    font-size: 1.25rem;
+    line-height: 0.5rem;
+  }
+}
+
+
+  

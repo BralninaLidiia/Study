@@ -1,0 +1,33 @@
+//1)
+//Верный запрос 
+GET http://localhost:3000/ HTTP/1.1
+###
+//Неверный запрос
+GET http://localhost:3000/2 HTTP/1.1
+###
+//2)
+//Верный запрос
+POST http://localhost:3000/comments HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "comment": "This is a test comment."
+}
+###
+//Неверный запрос 
+POST http://localhost:3000/comments HTTP/1.1
+Content-Type: application/json
+
+{
+  "names": "John Doe",
+  "comment": "This is a test comment."
+}
+###
+//3)
+//Верный запрос
+GET http://localhost:3000/stats HTTP/1.1
+###
+//Неверный запрос
+GET http://localhost:3000/stat HTTP/1.1
+
