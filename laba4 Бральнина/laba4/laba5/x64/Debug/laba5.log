@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  laba5.cpp
+  laba5Dlg.cpp
+C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba4\laba4\laba5\laba5Dlg.cpp(359,10): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba4\laba4\laba5\laba5Dlg.cpp(372,13): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba4\laba4\x64\Debug\laba5.exe при последней инкрементной компоновке; выполняется полная компоновка
+  laba5.vcxproj -> C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba4\laba4\x64\Debug\laba5.exe
