@@ -1,0 +1,13 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\bin\Debug\net8.0\lib1task.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\bin\Debug\net8.0\lib1task.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\bin\Debug\net8.0\lib1task.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\refint\lib1task.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\ref\lib1task.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\lib1task.csproj.AssemblyReference.cache

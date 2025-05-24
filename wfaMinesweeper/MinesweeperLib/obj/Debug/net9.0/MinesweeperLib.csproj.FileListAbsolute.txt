@@ -1,0 +1,13 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\bin\Debug\net9.0\MinesweeperLib.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\bin\Debug\net9.0\MinesweeperLib.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\bin\Debug\net9.0\MinesweeperLib.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\refint\MinesweeperLib.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\MinesweeperLib.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wfaMinesweeper\MinesweeperLib\obj\Debug\net9.0\ref\MinesweeperLib.dll

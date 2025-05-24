@@ -1,0 +1,30 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\bin\Debug\net8.0\conhello.exe
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\bin\Debug\net8.0\conhello.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\bin\Debug\net8.0\conhello.runtimeconfig.json
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\bin\Debug\net8.0\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\bin\Debug\net8.0\conhello.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\refint\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\conhello.genruntimeconfig.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\че-то\вуз\5 сем\разработка\conhello\conhello\obj\Debug\net8.0\ref\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\refint\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\bin\Debug\net8.0\conhello.exe
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\bin\Debug\net8.0\conhello.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\bin\Debug\net8.0\conhello.runtimeconfig.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\bin\Debug\net8.0\conhello.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\bin\Debug\net8.0\conhello.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\conhello.genruntimeconfig.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\conhello\conhello\obj\Debug\net8.0\ref\conhello.dll

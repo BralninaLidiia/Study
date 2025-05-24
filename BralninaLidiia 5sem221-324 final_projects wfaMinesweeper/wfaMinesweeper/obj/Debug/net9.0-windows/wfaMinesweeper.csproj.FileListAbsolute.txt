@@ -1,0 +1,2 @@
+C:\Users\ЦИФРОСКУПКА\Downloads\BralninaLidiia 5sem221-324 final_projects wfaMinesweeper\wfaMinesweeper\obj\Debug\net9.0-windows\wfaMinesweeper.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\BralninaLidiia 5sem221-324 final_projects wfaMinesweeper\wfaMinesweeper\obj\Debug\net9.0-windows\wfaMinesweeper.csproj.AssemblyReference.cache

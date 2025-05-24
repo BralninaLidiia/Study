@@ -1,0 +1,78 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.exe
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.runtimeconfig.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\bin\Debug\net8.0-windows\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.Properties.Resources.resources
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.GenerateResource.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCut.F00372C7.Up2Date
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\refint\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.genruntimeconfig.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\ref\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\WFA1\obj\Debug\net8.0-windows\WFA1.FormImageCut.resources
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.exe
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.runtimeconfig.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\bin\Debug\net8.0-windows\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\WFA1.FormImageCut.resources
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.Properties.Resources.resources
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.GenerateResource.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCut.F00372C7.Up2Date
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\refint\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.genruntimeconfig.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\WFA1\obj\Debug\net8.0-windows\ref\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.exe
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.runtimeconfig.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\ImageCutter.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\bin\Debug\net8.0-windows\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\WFA1.FormImageCut.resources
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.Properties.Resources.resources
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.GenerateResource.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCut.F00372C7.Up2Date
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\refint\ImageCutter.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ImageCutter.genruntimeconfig.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\WFA1\obj\Debug\net8.0-windows\ref\ImageCutter.dll
