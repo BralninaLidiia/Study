@@ -1,0 +1,22 @@
+﻿GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglCreateContext в функции "public: bool __cdecl COpenGL::SetupPixelFormat(struct HDC__ *)" (?SetupPixelFormat@COpenGL@@QEAA_NPEAUHDC__@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglDeleteContext в функции "public: virtual __cdecl COpenGL::~COpenGL(void)" (??1COpenGL@@UEAA@XZ).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_wglMakeCurrent в функции "public: virtual __cdecl COpenGL::~COpenGL(void)" (??1COpenGL@@UEAA@XZ).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glBegin в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClear в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClearColor в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClearDepth в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glDepthFunc в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glEnable в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glEnd в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLightModelf в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLightfv в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLoadIdentity в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glMaterialfv в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glMatrixMode в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glNormal3f в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glRotatef в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glScalef в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glTranslatef в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glVertex3f в функции "public: void __cdecl COpenGL::Render(class COpenGlDoc *)" (?Render@COpenGL@@QEAAXPEAVCOpenGlDoc@@@Z).
+GL.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glViewport в функции "public: void __cdecl COpenGL::Reshape(int,int)" (?Reshape@COpenGL@@QEAAXHH@Z).
+C:\Users\ЦИФРОСКУПКА\Downloads\OpenGl\OpenGl\x64\Debug\OpenGl.exe : fatal error LNK1120: неразрешенных внешних элементов: 21
