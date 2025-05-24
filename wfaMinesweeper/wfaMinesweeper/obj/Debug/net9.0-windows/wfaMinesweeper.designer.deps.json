@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Castle.Core/3.3.0": {
+        "runtime": {
+          "lib/net45/Castle.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.0.43"
+          }
+        }
+      },
+      "TestStack.White/0.13.3": {
+        "dependencies": {
+          "Castle.Core": "3.3.0"
+        },
+        "runtime": {
+          "lib/net40/TestStack.White.dll": {
+            "assemblyVersion": "0.13.0.0",
+            "fileVersion": "0.13.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Castle.Core/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvlF47qlxKXurxSUWAnX79stVrnkuUPe5lHq26OiXUtMEngPaBcJ+5j+yVdFJ70hjUZpqg7qQK5hCZSex14ekQ==",
+      "path": "castle.core/3.3.0",
+      "hashPath": "castle.core.3.3.0.nupkg.sha512"
+    },
+    "TestStack.White/0.13.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AmeqJMLqc4YZE452vTUeS0HYR1KlqzWaifHXUkPlppvxEDWq559I7hmjZQ6QqV3SlA6Ej58UbXxa7X/HgqZTcg==",
+      "path": "teststack.white/0.13.3",
+      "hashPath": "teststack.white.0.13.3.nupkg.sha512"
+    }
+  }
+}
