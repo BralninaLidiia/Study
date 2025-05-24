@@ -1,0 +1,4 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wpfResourceDictionary\wpfResourceDictionary\obj\Debug\net8.0-windows\Dictionary1.baml
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wpfResourceDictionary\wpfResourceDictionary\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wpfResourceDictionary\wpfResourceDictionary\obj\Debug\net8.0-windows\wpfResourceDictionary_MarkupCompile.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\wpfResourceDictionary\wpfResourceDictionary\obj\Debug\net8.0-windows\Dictionary2.baml
