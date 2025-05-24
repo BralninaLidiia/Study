@@ -1,0 +1,4 @@
+﻿  Laba_mnogom_optDlg.cpp
+C:\Users\ЦИФРОСКУПКА\Desktop\Многомерный хуй х2 (1)\Laba_mnogom_opt\Laba_mnogom_opt\Laba_mnogom_optDlg.cpp(370,13): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\Многомерный хуй х2 (1)\Laba_mnogom_opt\Laba_mnogom_opt\Laba_mnogom_optDlg.cpp(384,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  Laba_mnogom_opt.vcxproj -> C:\Users\ЦИФРОСКУПКА\Desktop\Многомерный хуй х2 (1)\Laba_mnogom_opt\x64\Debug\Laba_mnogom_opt.exe
