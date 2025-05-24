@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  laba1.cpp
+  laba1Dlg.cpp
+C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba1\laba1\laba1Dlg.cpp(172,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba1\laba1\laba1Dlg.cpp(172,43): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  laba1.vcxproj -> C:\Users\ЦИФРОСКУПКА\Desktop\2 семак залупкино\прога\laba1\x64\Debug\laba1.exe
