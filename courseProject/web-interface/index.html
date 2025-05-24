@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class = "container">
+        <div class = "card">
+            <div class ="card-image">
+        </div>
+        <form class ="card-form" method="post" action="/">
+            <div class="input">
+                <input type="number" min ="1" name="lc" class="input-field"
+                placeholder="Длина lc (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="lt" class="input-field"
+                placeholder="Длина lt (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="lr" class="input-field"
+                placeholder="Длина lr (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="lb" class="input-field"
+                placeholder="Длина lb (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="d0" class="input-field"
+                placeholder="Диаметр d0 (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="dc" class="input-field"
+                placeholder="Диаметр dс (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="ht" class="input-field"
+                placeholder="Высота ht (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="number" min ="1" name="hb" class="input-field"
+                placeholder="Высота hb (мм)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="input">
+                <input type="text" name="U" class="input-field"
+                placeholder="Скорость U (м/с)" onKeyPress="handler()" required
+                />
+            </div>
+            <div class="action">
+                <input type="submit" class="action-button" id="btn" value="Расчет"></button>
+            </div>
+        </form>
+    </div>
+    <script>
+        function handler() {
+        if (event.keyCode < 48 || event.keyCode > 57)
+        event. returnValue= false;
+        }
+    </script>
+</body>
+</html>
