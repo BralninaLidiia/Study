@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Kursach_1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  KursachDlg.cpp
+C:\Users\ЦИФРОСКУПКА\Desktop\Kursach\Kursach\KursachDlg.cpp(192): warning C4715: CKursachDlg::Proverka: значение возвращается не при всех путях выполнения
+  Kursach.vcxproj -> C:\Users\ЦИФРОСКУПКА\Desktop\Kursach\x64\Debug\Kursach.exe
