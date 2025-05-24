@@ -1,0 +1,16 @@
+﻿  CColorDlg.cpp
+  CMyTreeView.cpp
+  CObjectsDlg.cpp
+  MFCApplication1.cpp
+  MFCApplication1Doc.cpp
+  MFCApplication1View.cpp
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(84,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(85,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(96,24): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(101,19): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(105,32): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(116,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(125,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MainFrm.cpp
+  Создание кода...
+  MFCApplication1.vcxproj -> C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\лаба3\MFCApplication1\x64\Debug\MFCApplication1.exe
