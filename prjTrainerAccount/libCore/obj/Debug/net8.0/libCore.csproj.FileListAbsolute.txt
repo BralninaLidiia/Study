@@ -1,0 +1,12 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\bin\Debug\net8.0\libCore.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\bin\Debug\net8.0\libCore.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\bin\Debug\net8.0\libCore.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\refint\libCore.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\libCore.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\prjTrainerAccount\libCore\obj\Debug\net8.0\ref\libCore.dll
