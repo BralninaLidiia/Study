@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Форма для отправки данных</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Форма для отправки данных и отображения ответа</h1>
+    <form id="dataForm">
+        <label for="count">Количество страниц:</label>
+        <input type="text" id="count" name="count">
+        <button type="submit">Получить записи</button>
+    </form>
+    <div id="errorMessage" style="color: red;"></div>   
+    <h2>Records</h2>
+    <table id="recordsTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Record</th>
+            </tr>
+        </thead>
+        <tbody id="recordsBody"></tbody>
+    </table>
+
+    <script>
+        document.getElementById('dataForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const pageNumber = parseFloat(document.getElementById('count').value);
+            if (isNaN(pageNumber) || !Number.isInteger(pageNumber) || pageNumber > 100) {
+                document.getElementById('errorMessage').innerText = 'Пожалуйста, введите целое положительное число меньше 100';
+                return;
+            }
+
+            document.getElementById('errorMessage').innerText = '';
+
+            const requestBody = { pageNumber: pageNumber, surname: 'Bralnina' };
+
+
+            fetch('http://127.0.0.1:4000/inputDB', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(requestBody)
+            })
+            .then(response => {
+44
+                if (!response.ok) {
+                    throw new Error('Сервер вернул ' + response.statusd);
+                }
+                return response.json();
+            })
+            .then(data => {
+4
+                const recordsBody = document.getElementById('recordsBody');
+4
+                recordsBody.innerHTML = '';
+4
+                data.forEach(function(record) {
+                    const row = document.createElement('tr');
+                    row.innerHTML = '<td>' + record.page_id + '</td><td>' + record.num_page + '</td>';
+                    recordsBody.appendChild(row);
+                });
+            })
+4
+            .catch(error => {
+                document.getElementById('errorMessage').innerText = 'Ошибка: ' + error.message;
+            });
+        });
+    </script>
+    <footer>
+        <p>Бральнина Лидия Степановна</p>
+        <p>Дата выполнения: 15 мая 2024</p>
+    </footer>  
+</body>
+</html>

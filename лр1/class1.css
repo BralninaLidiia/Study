@@ -1,0 +1,128 @@
+@font-face {
+	font-family: 'PT Mono Bold'; 
+	src: url(pt-mono-bold.ttf); 
+}
+@font-face {
+	font-family: 'PT Mono Regular'; 
+	src: url(pt-mono-regular.ttf); 
+}
+body{
+    background-color: black;
+    text-align: center;
+    }
+body h1{
+  font-family: 'PT Mono Bold';
+  margin-top: 0px;
+  font-size: 2rem;
+  line-height: 2.5rem;
+  text-align: center;
+  color: #ffffff;
+  max-width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+  .optional {
+    color: #999;
+  }
+  
+  .form input:required {
+    border-color:#FFD600;
+    margin-left: 10px;
+  }
+  .form label {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    
+  }
+  
+  .form input {
+    width: 280px;
+    height: 60px;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    padding: 16px;
+    box-sizing: border-box;
+    font-family: 'PT Mono Regular', sans-serif;
+    text-align: left;
+    font-size: 0.9375rem;
+    line-height: 1.5rem;
+    color: #ffffff;
+    max-width: 288px;
+    margin-bottom: 20px;
+  }
+  
+  .form .required-sign {
+    color: red;
+    margin-left: 0px; /* Расстояние от символа "*" до поля */
+  }
+  ::placeholder {
+    color: #999; /* Цвет текста подсказки */
+    font-style: italic; /* Наклонный шрифт, если нужно */
+  }
+  
+
+.buttonform button{
+background-color: #FFD600;
+border-radius: 16px;
+border: none;
+width: 280px;
+height: 60px;
+font-weight: 400;
+font-size: 1.6rem;
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+font-size: 1.5rem;
+line-height: 2rem;
+color:#ffffff;
+margin-top: 0px;
+font-family: 'PT Mono Bold';
+transition: all 0.3s ease;
+}
+button:hover {
+  color:#ffffffe4; /* Новый цвет текста при наведении */
+  background-color: #ff9100; /* Новый цвет фона при наведении */
+  transform: scale(1.1) rotate(1deg); /* Масштабирование и поворот при наведении */
+  box-shadow: 0 0 10px #ffffff;
+}
+
+/* Стили для состояния active */
+button:active {
+  color: #ffffffe4; /* Новый цвет текста при активации (нажатии) */
+  background-color: #ffae00; /* Новый цвет фона при активации */
+  transform: scale(0.9) rotate(-1deg);
+}
+
+/* Стили для состояния focus */
+button:focus {
+  outline: none; /* Убираем стандартное обводка при фокусе (необязательно, можно оставить) */
+  box-shadow: 0 0 10px #ffffff; /* Тень при фокусе для лучшей видимости */
+  /* Добавьте дополнительные стили по вашему желанию */
+}
+header {
+  display: flex;
+  justify-content: space-between; /* Распределение пространства между элементами */
+  align-items: center;
+  width: 288px;
+  height: 56px;
+}
+.reloadbutton {
+  margin-top: 16px;
+  margin-left: 16px;
+}
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  background-color: #10151A;
+}

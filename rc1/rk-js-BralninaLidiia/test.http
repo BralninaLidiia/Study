@@ -1,0 +1,30 @@
+//POST запрос на /solution 
+POST http://127.0.0.1:4000/solution
+Content-Type: application/json
+
+{
+    "letters": "ППНООП"
+}
+###
+POST http://127.0.0.1:4000/solution
+Content-Type: application/json
+
+{
+    "letters": "ППНООО"
+}
+
+//некорректный POST запрос на /solution
+###
+POST http://127.0.0.1:4000/solution
+Content-Type: application/json
+
+{
+    "letter": "ППНООО"
+}
+//GET запрос на /task
+###
+GET http://127.0.0.1:4000/task
+
+//GET запрос на /stats
+###
+GET http://127.0.0.1:4000/stats
