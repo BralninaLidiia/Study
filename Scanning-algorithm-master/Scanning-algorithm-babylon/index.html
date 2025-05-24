@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контур объеденения прямоугольников</title>
+    <style>
+        #renderCanvas {
+            position: absolute;
+            width: 49%;
+            height: 100%;
+            right: 0;
+            top: 0;
+        }
+        #renderRectangles {
+            position: absolute;
+            width: 49%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+        .button-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: repeat(3, auto);
+            gap: 3px;
+            padding: 5px;
+        }
+        .button-container button {
+            padding: 10px;
+            font-size: 20px;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="renderCanvas"></canvas>
+    <canvas id="renderRectangles"></canvas>
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <script src="main.js"></script>
+    <div class="button-container">
+        <button id="btn1">Сценарий 1</button>
+        <button id="btn1_1">Отрисовать сценарий 1</button>
+        <button id="btn2">Сценарий 2</button>
+        <button id="btn2_2">Отрисовать сценарий 2</button>
+        <button id="btn3">Сценарий 3</button>
+        <button id="btn3_3">Отрисовать сценарий 3</button>
+    </div>
+</body>
+</html>
