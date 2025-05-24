@@ -1,0 +1,39 @@
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\refint\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1\libWFA1\obj\Debug\net8.0\ref\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\refint\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\WFA1 (3)\WFA1\libWFA1\obj\Debug\net8.0\ref\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.deps.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\bin\Debug\net8.0\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.csproj.AssemblyReference.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.AssemblyInfoInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.AssemblyInfo.cs
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.csproj.CoreCompileInputs.cache
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.sourcelink.json
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\refint\libImageCut.dll
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\libImageCut.pdb
+C:\Users\ЦИФРОСКУПКА\Desktop\5 сем\разработка приложений\ImageCutWfa\WFA1\libWFA1\obj\Debug\net8.0\ref\libImageCut.dll

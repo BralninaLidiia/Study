@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gl2HFkwMCLs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ЦИФРОСКУПКА\\Desktop\\5 сем\\разработка приложений\\ImageCutWfa\\WFA1\\libWFA1\\libImageCut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ЦИФРОСКУПКА\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\ЦИФРОСКУПКА\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
