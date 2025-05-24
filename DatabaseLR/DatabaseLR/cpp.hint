@@ -1,0 +1,5 @@
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define DECLARE_DYNAMIC(class_name) protected: static CRuntimeClass* PASCAL _GetBaseClass(); public: static const CRuntimeClass class##class_name; static CRuntimeClass* PASCAL GetThisClass(); __pragma(warning(suppress:26433)) virtual CRuntimeClass* GetRuntimeClass() const;
+#define DECLARE_DYNAMIC(class_name) public: static const CRuntimeClass class##class_name; virtual CRuntimeClass* GetRuntimeClass() const;

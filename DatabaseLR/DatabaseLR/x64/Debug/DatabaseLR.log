@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  AddForBooking.cpp
+  AddForClient.cpp
+  AddForRooms.cpp
+  CDialogChange.cpp
+  DatabaseLR.cpp
+  DatabaseLRDoc.cpp
+  DatabaseLRView.cpp
+  DeletItem.cpp
+  FilterItem.cpp
+  MainFrm.cpp
+  MyTree.cpp
+  Создание кода...
+  DatabaseLR.vcxproj -> C:\Users\ЦИФРОСКУПКА\Desktop\3 семестр\Прога\DatabaseLR2\DatabaseLR\x64\Debug\DatabaseLR.exe
